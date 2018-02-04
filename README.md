@@ -4,6 +4,8 @@
 
 ## Build Setup
 
+Edit your google client id at src/main.js
+
 ``` bash
 # install dependencies
 npm install
